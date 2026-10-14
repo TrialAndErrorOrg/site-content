@@ -1,0 +1,11 @@
+firstName: Muriel
+lastName: Strange
+team: true
+position: Project Manager
+email: strange@trialanderror.org
+summary: Muriel Strange is a social science researcher who specializes in the interaction between trust, identity, and intuition in healthcare decision-making. I currently work as a project manager at the Journal of Trial and Error and as a freelance researcher in my free time.
+image: /uploads/people/strange.webp
+links:
+  - icon: linkedin
+    url: https://linkedin.com/in/murielstrange
+orcid: https://orcid.org/0009-0002-7241-9997

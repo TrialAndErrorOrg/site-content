@@ -1,0 +1,20 @@
+firstName: Thomas F. K.
+lastName: Jorna
+team: true
+position: IT Director, Vice Treasurer
+pronouns: he/they
+email: jorna@trialanderror.org
+summary: Having a background in theoretical physics, Thomas is finishing his master's in philosophy of science. Passionate about open science and open source software, they manage all the darn IT in this place, and do the typesetting for the journal and publishing efforts of the Center. He also works for the Knowledge Futures Group to make [PubPub](https://www.pubpub.org/), the open publishing platform used by the Journal.
+image: /uploads/people/jorna.webp
+links:
+  - icon: mastodon
+    url: https://akademienl.social/@tefkah
+  - icon: github
+    url: https://github.com/tefkah
+  - icon: linkedin
+    url: https://linkedin.com/in/thomasfkjorna
+  - icon: website
+    url: https://tefkah.com
+  - icon: twitter
+    url: https://twitter.com/tefkah
+orcid: https://orcid.org/0000-0003-2641-0537

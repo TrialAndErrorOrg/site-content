@@ -1,0 +1,52 @@
+---
+title: Who Is to Blame When We Fly Too Close to the Sun – Academia or the Individual?
+date: 2021-09-10T09:00:00.000Z
+excerpt: We should beware of using Ariely and others as scapegoats. Rather than dwelling on the moral failings of individual researchers, we might reframe fraud and misconduct as a systemic problem.
+image: /uploads/blog/who-is-to-blame-when-we-fly-too-close-to-the-sun-academia-or-the-individual/who-is-to-blame-when-we-fly-too-close-to-the-sun-academia-or-the-individual.webp
+imageAlt: Picture of Icarus statue
+category: opinion
+tags:
+  - open science
+  - statistics
+  - metascience
+authors:
+  - field
+  - devine
+doi: 10.36850/fwb9-mv20
+---
+
+Error is part of the scientific process. Research studies are conceived, coordinated and conducted by humans, and, as such, there is always the chance for mistakes to be made somewhere along the line. Such errors are common and often mundane. For instance, an experimenter might have screwed up the randomization of participants to conditions when programming their study in Qualtrics. Variable names can easily be accidentally swapped around in data spreadsheets, especially if multiple people are working with the same Excel file and passing it around. If one starts using Python after first training in R, it’s not strange to mistakenly index the start of an array with 1 instead of 0, which has the potential to lead to incorrect statistical analyses. A diligent, enthusiastic student, new to qualitative research methods might ask leading questions and prompt interviewees too much, unwittingly allowing confirmation bias to cloud their final conclusions about the phenomenon of interest.
+
+These are random errors. They occur irregularly, and without premeditation. Those committing them tend to be unaware that they have made a mistake until after the fact - if they end up finding out at all. Random error is not the only kind of error committed in science though.
+
+Since the cases of high-profile researchers like social scientists Diederik Stapel and Jens Förster, and nutrition psychologist Brian Wansink, the scientific and lay-communities alike have become increasingly aware of another, more serious kind of error – that of misconduct and fraud. These kinds of errors are systematic, are knowingly committed, and are often covered up by the doer such that they may avoid detection. The good news is that most serious kinds of fraud involving data fabrication or manipulation are likely to be relatively rare in psychological science – less than 2% of the scientific population report to have engaged in such behaviour at least once, says Fanelli \[1]. The bad news? 10-20% of researchers admit to knowing someone who has falsified data \[2]. If trust is a key pillar on which the enterprise of science rests, how can we account for this violation; how can we as consumers of science trust what we read if potentially a fifth of it is made up? Perhaps most saliently, where can we place the blame and how can we fix it?
+
+In light of such egregious violation of the community’s trust, it is tempting to blame dishonest researchers alone. One bad apple spoils the barrel, so the argument goes. This view treats the issue as one of moral failing—of bad people doing bad science—and has sparked initiatives like ‘rehab’ for offending researchers aimed at cleansing them of their scientific sins \[3].
+
+On the other hand, what if dishonest psychologists are not scientific heretics in need of penance, but rather psychology’s most devoted followers; those who respond rationally to a corrupt system. Put plainly, what if the academic incentive system in psychology is at least partly to blame for shoddy science. Let’s unpack this idea a little more, focusing on the very recent and popular case of professor of psychology, Dan Ariely.
+
+Professor Ariely has been in the news lately, at the centre of an unfolding case involving allegations of data manipulation. At the end of August, 2021, blog site Data Colada run by Leif Nelson, Joseph Simmons, & Uri Simonsohn published an extensive post \[4]. It detailed an analysis of the results of a 2012 article co-authored by Professor Ariely, and the ultimate judgment it communicated was that the data in that paper were fraudulent, and the article’s conclusions unreliable. The analysis, written by the Nelson, Simmons, and Simonsohn (the real whistle-blowers chose to remain anonymous), found computational evidence that the article’s data were fabricated in two ways: duplicated then altered, and possibly randomly generated. The data were highly uniform in their distribution (where one would expect that these kinds of data would be somewhat bell-shaped in distribution). The only explanation for such a finding, argue the Nelson et al., is that the data were simulated, rather than collected. Additionally, the data seem to have been tampered with at multiple timepoints in the experiment. It cannot be determined with certainty who manipulated the data, nor how the data were tampered with exactly. Suspicion has fallen on Professor Ariely, however.
+
+This post shook the psychological community, due in no small part to the unfortunate irony that Ariely himself is a researcher of dishonesty, leading many to question why someone so acutely in touch with why people lie would lie himself.
+
+Leaving aside whether Ariely is truly guilty of fabricating data or not (this is a question for the review boards), there are at least two issues to consider here. First, why do scientists commit fraud? An interview of Cristy McGoff, the former director of the research integrity office at the University of North Carolina, published by RetractionWatch in 2016, addresses this question \[5]. The interview highlights two factors which interact to precipitate the behaviour our current society labels as fraud: personality traits and research culture. Or, to use the by-now cliché phrase, nature versus nurture. Of the interaction between these factors, McGoff says: “The environment of research advancement contains levels of ego, competitive behaviours, and the need to be respected both by peers and students. While those involved may not have started out in their field with these traits, it is in some way something that can be bred just by being within this culture daily and the modelling of these traits all around them.”
+
+Although a toxic academic culture and perverse incentive structures are of course not the only factor contributing to fraud and misconduct, they play a big role. Every high profile researcher who stretched a story in a paper with ambiguous data, who has chased prestige by reviewing for a larger journal instead of a smaller one they may be better suited for, who exaggerated findings or plans for a grant, has contributed to the environment of ‘successism’, which, in part, has pushed researchers to engage in questionable research practices and, most extremely, fake data for publications. In other words, each scientist who finds themselves outraged at the Ariely story should look inward and recognize the parts of themselves contained within it. In a scientific community that is genuinely interested in knowledge-production and which does not prioritize novelty and impact above soundness and reliability, this would likely happen even less than it already does.
+
+The second issue concerns integrity, and how it is socially constructed. In an excellent analysis of fraud as a sociotechnical construct, Park explores the idea that fraud can be framed as a “concept that is defined and judged in local contexts, rather than as timeless and universal…” \[6]. If we think of fraud that way, says Park, we redirect attention from asking the question of who has committed the fraud to the question of “…what constitutes wrongdoing” (p. 396). We argue that wrongdoing in the context of academic misconduct is not only a burden to be placed at the door of the individual wrongdoer themselves, but also at the door of the community as a whole. Park asks whether it is even possible to have an isolated act of wrongdoing in labs today and within our current culture. He asserts that “to locate responsibility becomes a complicated and contested matter, which can reveal power relations within and between the labs”, and, we add, within the greater scientific community. Stretching a metaphor introduced by Park, we can compare academia to Daedalus in the Fall of Icarus; fraudsters to Icarus himself. Academic culture, like Icarus’s father Daedalus, is responsible for being on Crete in the first place (as a place of refuge after having been charged with murder) and provides the means to escape the island by flying. Icarus himself, however, pays the price: he falls from the sky into the sea, where he drowns.
+
+Zooming out, we should beware of using Ariely and others as scapegoats. Rather than dwelling on the moral failings of individual researchers, we might reframe fraud and misconduct as a systemic problem we all ultimately contribute to as part of the scientific community. Firing Ariely and others who commit fraud won't do anything more than delay the next fraud or misconduct case. Until we address core problems in academia – the suppression of null results, emphasis on the "story" and not the substance of research findings, statistical misunderstandings and mishandlings, ‘pay-to-play' research, success-oriented funding bodies, etc. – we cannot expect that people will always play by the rules we construct. Only by making slow, trial-and-error science the norm, and working collectively to neutralize harmful academic culture can we come close to purifying science.
+
+## References
+
+\[1]: Fanelli D (2009) How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLOS ONE 4(5).
+
+\[2]: Stricker, J., & Günther, A. (2019). Scientific misconduct in psychology. Zeitschrift für Psychologie.
+
+\[3]: Cressey, D. (2013). ‘Rehab’ helps errant researchers return to the lab. Nature, 493, 147.
+
+\[4]: Nelson, L., Simmons, J., & Somonsohn, U. (August, 2021). Evidence of Fraud in an Influential Field Experiment about Dishonesty. *Datacolada.* Via: https\://datacolada.org/98
+
+\[5]: McCook, A. (August 29, 2016). Who do scientists commit misconduct. *Retraction Watch*. Via: https\://retractionwatch.com/2016/08/29/why-do-scientists-commit-misconduct/
+
+\[6]: Park, B. S. (2020). Making matters of fraud: Sociomaterial technology in the case of Hwang and Schatten. History of Science, 58(4), 393-416.

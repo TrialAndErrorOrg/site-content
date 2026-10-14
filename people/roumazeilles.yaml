@@ -1,0 +1,10 @@
+firstName: Lea
+lastName: Roumazeilles
+team: false
+image: /uploads/people/roumazeilles.webp
+links:
+  - icon: linkedin
+    url: https://www.linkedin.com/in/lea-roumazeilles/?locale=fr_FR
+  - icon: website
+    url: https://www.win.ox.ac.uk/people/lea-roumazeilles/
+orcid: https://orcid.org/0000-0003-2195-7621

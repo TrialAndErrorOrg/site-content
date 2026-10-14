@@ -1,0 +1,9 @@
+firstName: Anne
+lastName: Clinio
+team: false
+summary: Anne Clinio (she/her) holds an MSc and PhD in Information Science from the Federal University of Rio de Janeiro (UFRJ). She is a researcher, member of the Education, Information, and Communication Vice Presidency team of Fundação Oswaldo Cruz (Fiocruz), Brazil. She is a member of the research groups Open Science and Citizen Innovation Laboratory (CindaLab), ScholCommLab and Intellecti.
+image: /uploads/people/clinio.webp
+links:
+  - icon: linkedin
+    url: https://www.linkedin.com/in/anne-clinio/
+orcid: https://orcid.org/0000-0002-9702-859X

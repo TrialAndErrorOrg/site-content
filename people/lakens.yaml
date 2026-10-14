@@ -1,0 +1,12 @@
+firstName: Daniel
+lastName: Lakens
+team: false
+image: /uploads/people/lakens.webp
+links:
+  - icon: github
+    url: https://github.com/Lakens
+  - icon: website
+    url: https://sites.google.com/site/lakens2/Home/
+  - icon: twitter
+    url: https://twitter.com/lakens
+orcid: https://orcid.org/0000-0002-0247-239X

@@ -1,0 +1,11 @@
+firstName: Puck
+lastName: Engelbarts
+team: true
+position: Copy Editor
+pronouns: she/her
+email: engelbarts@trialanderror.org
+summary: Puck is a master's student Molecular and Cellular Life Sciences at Utrecht University.
+image: /uploads/people/engelbarts.webp
+links:
+  - icon: linkedin
+    url: https://www.linkedin.com/in/puckengelbarts

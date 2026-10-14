@@ -1,0 +1,21 @@
+firstName: David
+lastName: Grüning
+team: true
+position: Psychology Editor
+pronouns: he/them
+email: gruening@trialanderror.org
+summary: |-
+  David is currently a PhD student at Heidelberg University & GESIS bridging the gap between Cognitive Psychology & Measurement Theory.
+
+  He is Editor of the Psychology section of the Journal of Trial & Error, striving to embrace the Center's openness concept of publishing & academic exchange for Psychology.
+image: /uploads/people/gruening.webp
+links:
+  - icon: mastodon
+    url: https://mastodon.social/@GruningJ
+  - icon: github
+    url: https://github.com/davidgruening
+  - icon: linkedin
+    url: https://www.linkedin.com/in/david-grüning-88071825a/
+  - icon: twitter
+    url: https://twitter.com/GruningJ
+orcid: https://orcid.org/0000-0002-9274-5477

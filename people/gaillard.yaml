@@ -1,0 +1,13 @@
+firstName: Stefan
+lastName: Gaillard
+team: true
+position: Co-founder, Editor, Special Issue Editor-in-Chief
+email: gaillard@trialanderror.org
+summary: Stefan Gaillard specializes in failure, uncertainty, and erroneous claims – both in science and society. He is one of the co-founders of the Journal of Trial and Error and currently works on the special issue on scientific failure in the health domain.
+image: /uploads/people/gaillard.webp
+links:
+  - icon: website
+    url: https://stefangaillard.com/
+  - icon: twitter
+    url: https://twitter.com/sdmgaillard
+orcid: https://orcid.org/0000-0003-1956-7325

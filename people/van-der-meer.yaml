@@ -1,0 +1,12 @@
+firstName: Martijn
+lastName: van der Meer
+team: true
+position: Chair
+email: vandermeer@trialanderror.org
+summary: Martijn is a historian of science and medicine and works as a lecturer and researcher at Erasmus Medical Centre and Erasmus University Rotterdam. He is also a policy advisor on responsible research at Tilburg University. In 2018, he co-founded the Center of Trial and Error and currently chairs the board.
+links:
+  - icon: website
+    url: https://martijnvandermeer.com
+  - icon: twitter
+    url: https://twitter.com/vandermeer_rm
+orcid: https://orcid.org/0000-0002-5557-0225

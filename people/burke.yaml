@@ -1,0 +1,14 @@
+firstName: Maura
+lastName: Burke
+team: true
+position: Board Member
+pronouns: she/her
+email: burke@trialanderror.org
+summary: Maura Burke is finalizing her PhD on the philosophy of science at Utrecht University. Her work focuses on the nature of human cognition and its role in the nature of scientific knowledge.
+image: /uploads/people/burke.webp
+links:
+  - icon: linkedin
+    url: https://www.linkedin.com/in/mauraburke/
+orcid: https://orcid.org/0000-0003-0851-1393
+aliases:
+  - maura-burke

@@ -1,0 +1,14 @@
+firstName: Max
+lastName: Bautista Perpinya
+team: false
+image: /uploads/people/bautista-perpinya.webp
+links:
+  - icon: github
+    url: https://github.com/oliviodare
+  - icon: linkedin
+    url: https://www.linkedin.com/in/max-bp
+  - icon: website
+    url: https://www.oliviodare.com
+  - icon: twitter
+    url: https://twitter.com/oliviodare
+orcid: https://orcid.org/0000-0002-5202-6961

@@ -1,0 +1,13 @@
+firstName: Sarahanne
+lastName: Field
+team: true
+position: Editor in Chief, Meta-Research Editor
+pronouns: she/her
+email: field@trialanderror.org
+summary: Sarahanne's a metascientist who conducts research on the science reform/open science movement, debates and controversies in the community, and the practices they engage in. She's not only interested in what goes wrong with science, but in how and why it has gone wrong.
+image: /uploads/people/field.webp
+links:
+  - icon: mastodon
+    url: https://akademienl.social/@smirandafield
+  - icon: website
+    url: https://www.sarahannemfield.eu
