@@ -3,7 +3,8 @@
 # out this repository at that moment, so nothing here needs to be built.
 #
 # Secret: OP_TOKEN, the 1Password service account token the site's build uses as well. It reads
-# a GitHub token from the Website vault that may only send dispatches to trialanderror.
+# a fine-grained GitHub token from the Website vault that may only start workflows in
+# trialanderror (Actions: read and write), not change its code.
 name: rebuild
 
 on:
@@ -25,6 +26,6 @@ jobs:
           DISPATCH_TOKEN: op://Website/Site rebuild token/credential
 
       - name: Ask the site to rebuild
-        run: gh api repos/TrialAndErrorOrg/trialanderror/dispatches -f event_type=content-updated
+        run: gh workflow run site.yml --repo TrialAndErrorOrg/trialanderror --ref main
         env:
           GH_TOKEN: ${{ steps.op.outputs.DISPATCH_TOKEN }}
