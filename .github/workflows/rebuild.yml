@@ -1,0 +1,30 @@
+# Asks TrialAndErrorOrg/trialanderror to rebuild the website whenever content changes here, for
+# example when an editor saves in trialanderror.org/admin. The site's workflow (site.yml) checks
+# out this repository at that moment, so nothing here needs to be built.
+#
+# Secret: OP_TOKEN, the 1Password service account token the site's build uses as well. It reads
+# a GitHub token from the Website vault that may only send dispatches to trialanderror.
+name: rebuild
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read the dispatch token from 1Password
+        id: op
+        uses: 1password/load-secrets-action@v5
+        env:
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_TOKEN }}
+          DISPATCH_TOKEN: op://Website/Site rebuild token/credential
+
+      - name: Ask the site to rebuild
+        run: gh api repos/TrialAndErrorOrg/trialanderror/dispatches -f event_type=content-updated
+        env:
+          GH_TOKEN: ${{ steps.op.outputs.DISPATCH_TOKEN }}
