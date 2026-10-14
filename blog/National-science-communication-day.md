@@ -1,6 +1,6 @@
 ---
 title: "National Science Communication Day: JOTE Presents on Values in Science"
-date: 2023-10-09T22:00:00.000Z
+date: 2023-10-09T22:00:00Z
 excerpt: Yesterday, Stefan Gaillard (JOTE, DNUS), Megan Milota (UMCU, DNUS), Robert Dasović and Marcel Hobma organized a workshop on values in science, for the annual Dutch conference on Science Communication.
 image: /uploads/blog/National-science-communication-day/6670b8ee-6329-4a91-b016-86ef447abd60.webp
 category: behind-the-scenes

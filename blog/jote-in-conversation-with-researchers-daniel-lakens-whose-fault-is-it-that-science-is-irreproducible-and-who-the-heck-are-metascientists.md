@@ -1,6 +1,6 @@
 ---
 title: "JOTE in Conversation: Daniël Lakens. Whose Fault Is it That Science is Irreproducible? And Who the Heck Are Metascientists?"
-date: 2020-05-31T20:29:00.000Z
+date: 2020-05-31T20:29:00Z
 excerpt: So if you ask, ‘who’s responsible?’ The truth is that everybody’s pointing but nobody is doing anything.
 image: /uploads/blog/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascientists/lakens2.webp
 imageAlt: Picture of a man in a suit

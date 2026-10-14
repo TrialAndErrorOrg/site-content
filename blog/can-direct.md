@@ -1,6 +1,6 @@
 ---
 title: Can Direct Replications Save Psychology From Its Conceptual and Measurement Issues?
-date: 2022-10-28T12:07:00.000Z
+date: 2022-10-28T12:07:00Z
 excerpt: Science reformers suggest direct replications as a solution to the replication crisis, but they might not be able to deal with the conceptual and measurement issues that underlie the crisis.
 image: /uploads/blog/can-direct/rene-muller-igtwfhzu0zq-unsplash.webp
 imageAlt: Picture of a Rorscharch-looking test

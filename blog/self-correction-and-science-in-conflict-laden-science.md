@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Self, Correction, and Science in Conflict-Laden Science"
-date: 2025-10-05T22:00:00.000Z
+date: 2025-10-05T22:00:00Z
 excerpt: Once upon a time, when it was said that science self-corrects, the image was of a relatively unified culture, a body of practices guided by shared norms of disinterested inquiry.
 image: /uploads/blog/self-correction-and-science-in-conflict-laden-science/september.webp
 category: culture-of-trial-and-error

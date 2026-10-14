@@ -1,6 +1,6 @@
 ---
 title: The Open Science Summer School Experience
-date: 2019-10-18T10:09:36.000Z
+date: 2019-10-18T10:09:00Z
 excerpt: When I first heard the term “open science” and realized what it meant, I thought, well, that sounds good, how hard can it be?
 image: /uploads/blog/the-open-science-summer-school-experience/the-open-science-summer-school-experience.webp
 category: behind-the-scenes

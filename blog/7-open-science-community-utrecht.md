@@ -1,6 +1,6 @@
 ---
 title: Open Science Community Utrecht
-date: 2019-06-03T16:06:20.000Z
+date: 2019-06-03T16:06:00Z
 excerpt: One of our first alliances was with the Open Science Community Utrecht (OSCU). Stefan was already a member, so it was relatively easy for him to come into contact with the founders of OSCU.
 image: /uploads/blog/7-open-science-community-utrecht/7-open-science-community-utrecht.webp
 category: behind-the-scenes

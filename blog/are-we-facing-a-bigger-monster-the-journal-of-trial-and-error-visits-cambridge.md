@@ -1,6 +1,6 @@
 ---
 title: Are We Facing a Bigger Monster?  The Journal of Trial and Error Visits Cambridge
-date: 2019-09-30T11:44:06.000Z
+date: 2019-09-30T11:44:00Z
 excerpt: As fall hits, we now look back and reflect about the beginning of summer.
 image: /uploads/blog/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/are-we-facing-a-bigger-monster-7ed700bfdb-upscayl-sharpened-4x-models-df2k.webp
 imageAlt: Two people, Max Bautista Perpinya and Martijn van der Meer, standing in front of a fancy building on the campus of Cambridge

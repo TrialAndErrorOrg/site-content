@@ -1,6 +1,6 @@
 ---
 title: On How the JOTE Project Has Been Evolving
-date: 2019-05-01T15:58:11.000Z
+date: 2019-05-01T15:58:00Z
 excerpt: A few months have passed since the Journal of Trial and Error’s first public appearance at the Descartes’ Christmas colloquium. Since then, we’ve had several exciting developments...
 image: /uploads/blog/5-on-how-the-jote-project-has-been-evolving/5-on-how-the-jote-project-has-been-evolving.webp
 category: behind-the-scenes

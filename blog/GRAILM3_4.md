@@ -1,6 +1,6 @@
 ---
 title: GRAIL EOSC Gravity Update Month 3 and 4
-date: 2026-09-23T13:24:12.190Z
+date: 2026-09-23T13:24:00Z
 excerpt: Relatedly, we spent some time thinking about how GRAIL could best fit into the existing EOSC Node landscape. Maybe it would be best for us to be a part of a larger, national network of Nodes?
 image: /uploads/blog/GRAILM3_4/screenshot-2026-10-09-at-11-30-42.webp
 category: behind-the-scenes

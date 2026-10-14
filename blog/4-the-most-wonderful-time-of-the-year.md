@@ -1,6 +1,6 @@
 ---
 title: The Most Wonderful Time of the Year
-date: 2019-03-26T21:44:53.000Z
+date: 2019-03-26T21:44:00Z
 excerpt: "It truly was the most wonderful time of the year: the last Descartes Centre Colloquium of 2018. The Descartes Centre, of course, is a place of legend, it is right up there with El Dorado."
 image: /uploads/blog/4-the-most-wonderful-time-of-the-year/annie-spratt-vdxtvyjvj7a-unsplash.webp
 category: behind-the-scenes

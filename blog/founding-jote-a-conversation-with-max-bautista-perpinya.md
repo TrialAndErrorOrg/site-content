@@ -1,6 +1,6 @@
 ---
 title: "Founding JOTE: A Conversation with Max Bautista Perpinyà. “I Don’t Think Forbes Has Any Legitimacy in Acknowledging Scientific Success.”"
-date: 2024-07-22T22:00:00.000Z
+date: 2024-07-22T22:00:00Z
 excerpt: What were the views and ideals of JOTE's co-founders, and how did they differ from each other? In this post, we ask it Max Bautista Perpinyà.
 image: /uploads/blog/founding-jote-a-conversation-with-max-bautista-perpinya/max-breed.webp
 category: behind-the-scenes

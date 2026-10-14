@@ -1,6 +1,6 @@
 ---
 title: "Breaking Bubbles: Art and Science in a Fractured World"
-date: 2025-03-30T22:00:00.000Z
+date: 2025-03-30T22:00:00Z
 excerpt: In an age where trust in science, facts, and authority is rapidly eroding, art may offer a surprising way forward.
 image: /uploads/blog/breaking-bubbles-art-and-science-in-a-fractured-world/leonardo-annunciation.webp
 category: opinion

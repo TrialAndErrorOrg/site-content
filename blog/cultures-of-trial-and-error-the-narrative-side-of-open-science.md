@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: The Narrative Side of (Open) Science"
-date: 2026-02-02T23:00:00.000Z
+date: 2026-02-02T23:00:00Z
 excerpt: Heterogenous communities with explicit commitments to science corrections or what this blog series summarises under the descriptor ‘cultures of trial and error’ have existed for the longest time.
 image: /uploads/blog/cultures-of-trial-and-error-the-narrative-side-of-open-science/sheenabartscherer.webp
 category: culture-of-trial-and-error

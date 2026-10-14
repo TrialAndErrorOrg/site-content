@@ -1,6 +1,6 @@
 ---
 title: Our First UtrechtInc Meeting
-date: 2019-05-21T20:26:49.000Z
+date: 2019-05-21T20:26:00Z
 excerpt: We must admit that we were a little nervous for our first UtrechtInc meeting, exactly one week ago.
 image: /uploads/blog/6-our-first-utrecht-inc-meeting/6-our-first-utrechtinc-meeting.webp
 category: behind-the-scenes

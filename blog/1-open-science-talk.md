@@ -1,6 +1,6 @@
 ---
 title: Open Science Talk
-date: 2019-02-02T18:10:00.000Z
+date: 2019-02-02T18:10:00Z
 excerpt: After a course in philosophy of science and a historiographical course on the history of the natural sciences, we had gotten a taste of what the rest of the program could be...
 image: /uploads/blog/1-open-science-talk/conference.webp
 category: behind-the-scenes

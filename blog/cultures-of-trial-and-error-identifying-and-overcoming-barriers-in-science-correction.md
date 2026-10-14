@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Identifying and Overcoming Barriers in Science Correction"
-date: 2025-02-27T07:00:00.000Z
+date: 2025-02-27T07:00:00Z
 excerpt: A JOTE x NanoBubbles blog post series, with guest editors Melpomeni (Melina) Antonakaki, Candida F. Sánchez Burmester, Mady Barbeitas.
 image: /uploads/blog/cultures-of-trial-and-error-identifying-and-overcoming-barriers-in-science-correction/steve-johnson-zmhynpeqzo-unsplash.webp
 category: culture-of-trial-and-error

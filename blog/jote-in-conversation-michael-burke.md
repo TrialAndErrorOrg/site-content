@@ -1,6 +1,6 @@
 ---
 title: 'JOTE in Conversation: Michael Burke. "Why are publishing companies getting paid for our peer review?"'
-date: 2024-01-04T23:00:00.000Z
+date: 2024-01-04T23:00:00Z
 excerpt: Professor of rhetoric at Utrecht University Michael Burke talks about failure and academic publishing. "Why are publishing companies getting paid for our peer review?"
 image: /uploads/blog/jote-in-conversation-michael-burke/michael-burke5.webp
 category: interview

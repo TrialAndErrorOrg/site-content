@@ -1,6 +1,6 @@
 ---
 title: GRAIL EOSC Gravity Project Month 1 and 2 Update
-date: 2026-07-10T08:30:00.000Z
+date: 2026-07-10T08:30:00Z
 excerpt: If we hope researchers will share rejected grant applications or other unrealized research materials, then greater recognition of their scholarly value will also be necessary.
 image: /uploads/blog/grail-eosc-gravity-project-month-1-and-2-update/share-2.webp
 category: behind-the-scenes

@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Replication in Social Psychology"
-date: 2025-03-25T23:00:00.000Z
+date: 2025-03-25T23:00:00Z
 excerpt: "Cultures of Trial and Error: Replication in Social Psychology (by Maarten Derksen)"
 image: /uploads/blog/replication-in-social-psychology/steve-johnson-zmhynpeqzo-unsplash.webp
 category: culture-of-trial-and-error

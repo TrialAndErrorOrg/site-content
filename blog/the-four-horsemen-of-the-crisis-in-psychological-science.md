@@ -1,6 +1,6 @@
 ---
 title: The Four Horsemen of the Crisis in Psychological Science
-date: 2020-03-25T21:41:38.000Z
+date: 2020-03-25T21:41:00Z
 excerpt: Psychological science is in a crisis, and has been for quite some time.
 image: /uploads/blog/the-four-horsemen-of-the-crisis-in-psychological-science/the-four-horsemen-of-the-crisis-in-psychological-science.webp
 imageAlt: Painting of the four horsemen of the apocalypse

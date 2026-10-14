@@ -1,6 +1,6 @@
 ---
 title: "Talk on Descartes Colloquium: Initiating a Journal for Trial and Error in Science"
-date: 2019-09-06T10:11:31.000Z
+date: 2019-09-06T10:11:00Z
 excerpt: On the 16th of June, project leader Martijn van der Meer gave a lecture at the Descartes Colloquium for the History and Philosophy of Sciences and Humanities at Utrecht University.
 image: /uploads/blog/9-talk-on-descartes-colloquium-initiating-a-journal-for-trial-and-error-in-science/9-talk-on-descartes-colloquium-initiating-a-journal-for-trial-and-error-in-science.webp
 category: behind-the-scenes

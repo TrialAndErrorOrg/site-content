@@ -1,6 +1,6 @@
 ---
 title: "Music and Mistakes: An Interview with Two Music Therapists on When Things Go Wrong"
-date: 2022-10-21T10:00:00.000Z
+date: 2022-10-21T10:00:00Z
 excerpt: "Mistakes are quite common in music therapy, yet rarely discussed. The book Breaking Strings: Explorations of Mistakes in Music Therapy and this interview are an attempt to remedy that."
 image: /uploads/blog/music-and-mistakes-an-interview-with-two-music-therapists-on-when-things-go-wrong/breaking-strings-cover.webp
 imageAlt: Cover  of the book Breaking String

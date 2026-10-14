@@ -1,6 +1,6 @@
 ---
 title: Posthumanism, Lille & "New Forms of Science"
-date: 2019-09-17T13:47:03.000Z
+date: 2019-09-17T13:47:00Z
 excerpt: What does a congress on Posthumanism have in common with our journal? To be very honest, I had no idea at first.
 image: /uploads/blog/posthumanism-lille-and-new-forms-of-science/posthumanism-lille-new-forms-of-science.webp
 category: behind-the-scenes

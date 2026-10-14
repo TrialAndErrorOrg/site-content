@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: The Promise of Open Notebook Science"
-date: 2025-07-30T22:00:00.000Z
+date: 2025-07-30T22:00:00Z
 excerpt: Open notebook science challenges the traditional ways we produce and share knowledge, creating a more transparent and collaborative approach to research that could foster science correction
 image: /uploads/blog/the_promise_of_open_notebook_science/steve-johnson-zmhynpeqzo-unsplash-clinio.webp
 category: culture-of-trial-and-error

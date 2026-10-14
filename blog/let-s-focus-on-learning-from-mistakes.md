@@ -1,6 +1,6 @@
 ---
 title: Let’s Focus on Learning From Mistakes Not on Avoiding Mistakes
-date: 2024-10-29T23:00:00.000Z
+date: 2024-10-29T23:00:00Z
 excerpt: Do we truly want to focus so much on eradicating mistakes, and are we trying to train a generation of reliable ‘robots’?
 image: /uploads/blog/let-s-focus-on-learning-from-mistakes/annie-spratt-ordz1m1-q0i-unsplash.webp
 category: opinion

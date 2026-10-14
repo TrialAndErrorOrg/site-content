@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: When the Spell Breaks: Magic, Money, and the EPR Effect"
-date: 2026-05-17T22:00:00.000Z
+date: 2026-05-17T22:00:00Z
 excerpt: How nanomedicine conjured billions from thin air and what happened when the enchantment failed
 image: /uploads/blog/cultures-of-trial-and-error-when-the-spell-breaks-magic-money-and-the-epr-effect/steve-johnson-zmhynpeqzo-unsplash-clinio.webp
 category: culture-of-trial-and-error

@@ -1,6 +1,6 @@
 ---
 title: "Not All That Shines Is Diamond: Why Open Access Publication Favors Rich Authors, Prestigious Universities and Industry-Funded Research"
-date: 2022-12-02T12:00:00.000Z
+date: 2022-12-02T12:00:00Z
 excerpt: More and more researchers pay processing costs for publishing in Open Access, but these costs disadvantage authors who are female, early in their career or, from low-income countries.
 image: /uploads/blog/not-all-that-shines-is-diamond/academicpublishing2.webp
 imageAlt: Picture of printing presses

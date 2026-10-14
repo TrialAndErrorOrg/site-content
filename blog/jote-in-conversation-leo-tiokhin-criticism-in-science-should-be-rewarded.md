@@ -1,6 +1,6 @@
 ---
 title: "JOTE in Conversation: Leo Tiokhin - “Criticism in Science Should be Rewarded”"
-date: 2024-04-01T22:00:00.000Z
+date: 2024-04-01T22:00:00Z
 excerpt: We present to you the fourth instalment of our “JOTE in conversation” series, where we ask Leo Tiokhin about Red Team Market and his career.
 image: /uploads/blog/jote-in-conversation-leo-tiokhin-criticism-in-science-should-be-rewarded/leo-profile-pic.webp
 category: interview

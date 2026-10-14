@@ -1,6 +1,6 @@
 ---
 title: "Stop Formatting Before the Desk Reject: A Proposal for Staged Submissions"
-date: 2026-01-26T23:00:00.000Z
+date: 2026-01-26T23:00:00Z
 excerpt: Many flagship journals reject most manuscripts at the desk-review stage, with rates of 40–80% being common
 image: /uploads/blog/stop-formatting-before-the-desk-reject-a-proposal-for-staged-submissions/steve-johnson-f2pxtjwrnrm-unsplash.webp
 category: opinion

@@ -1,6 +1,6 @@
 ---
 title: Who Is to Blame When We Fly Too Close to the Sun – Academia or the Individual?
-date: 2021-09-10T09:00:00.000Z
+date: 2021-09-10T09:00:00Z
 excerpt: We should beware of using Ariely and others as scapegoats. Rather than dwelling on the moral failings of individual researchers, we might reframe fraud and misconduct as a systemic problem.
 image: /uploads/blog/who-is-to-blame-when-we-fly-too-close-to-the-sun-academia-or-the-individual/who-is-to-blame-when-we-fly-too-close-to-the-sun-academia-or-the-individual.webp
 imageAlt: Picture of Icarus statue

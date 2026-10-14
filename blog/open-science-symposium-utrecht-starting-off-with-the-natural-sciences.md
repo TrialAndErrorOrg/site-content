@@ -1,6 +1,6 @@
 ---
 title: Open Science Symposium Utrecht – Starting off with the Natural Sciences
-date: 2020-02-21T15:05:44.000Z
+date: 2020-02-21T15:05:00Z
 excerpt: On February 6, the Open Science Community Utrecht (OSCU) organized a symposium on Open Science at the Faculty of Science of Utrecht University.
 image: /uploads/blog/open-science-symposium-utrecht-starting-off-with-the-natural-sciences/open-science-symposium-utrecht-starting-off-with-the-natural-sciences.webp
 imageAlt: Picture of a group of people sitting in an auditorium

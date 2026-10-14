@@ -1,6 +1,6 @@
 ---
 title: "JOTE in Conversation: Léa Roumazeilles. How Does Failure Arise and How Do You Deal With It?"
-date: 2020-03-05T19:59:58.000Z
+date: 2020-03-05T19:59:00Z
 excerpt: "We talked with Léa Roumazeilles, PhD candidate in Neurobiology at Oxford University. We spoke with her about her thesis subject: ‘Structure and function of the social brain in primates’."
 image: /uploads/people/roumazeilles.webp
 imageAlt: Headshot of a woman smiling in front of a white background

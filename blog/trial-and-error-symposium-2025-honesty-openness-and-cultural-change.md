@@ -1,6 +1,6 @@
 ---
 title: "Trial & Error Symposium 2025: Honesty, Openness, and Cultural Change"
-date: 2025-11-05T23:00:00.000Z
+date: 2025-11-05T23:00:00Z
 excerpt: "Trial & Error Symposium 2025: Honesty, Openness, and Cultural Change"
 image: /uploads/blog/trial-and-error-symposium-2025-honesty-openness-and-cultural-change/trial-error-award-symposium-pictures-horizontaal.webp
 category: news

@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Field-specific Barriers to Performing Replications"
-date: 2025-12-07T23:00:00.000Z
+date: 2025-12-07T23:00:00Z
 excerpt: In this piece, we call for more comparative research on field-specific replication dynamics.
 image: /uploads/blog/cultures-of-trial-and-error-1/fieldspecific.webp
 category: culture-of-trial-and-error

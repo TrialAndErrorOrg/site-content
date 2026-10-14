@@ -1,6 +1,6 @@
 ---
 title: "Founding JOTE: A Conversation with Martijn van der Meer. “My Interests Became More Political. I Wanted to Contribute to a Mission-Driven Model of Scientific Publishing”"
-date: 2024-07-29T22:00:00.000Z
+date: 2024-07-29T22:00:00Z
 excerpt: What were the views and ideals of JOTE's co-founders, and how did they differ from each other? In this post, we ask it Martijn van der Meer.
 image: /uploads/blog/founding-jote-a-conversation-with-martijn-van-der-meer-my-interests-became-more-political-i-wanted-to-contribute-to-a-mission-driven-model-of-scientific-publishing/martijn-breed.webp
 category: behind-the-scenes

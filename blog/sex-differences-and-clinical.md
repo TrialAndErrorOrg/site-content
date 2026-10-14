@@ -1,6 +1,6 @@
 ---
 title: "Sex Differences and Clinical Research: a Reflection on Communicating About Values in Science"
-date: 2023-10-06T22:03:00.000Z
+date: 2023-10-06T22:03:00Z
 excerpt: Philosophers teach us that science is drenched in values, but what does this mean for science communication? Editor Marcel reflects on what values mean for his earlier work on clinical trials.
 image: /uploads/blog/sex-differences-and-clinical/vlad-tchompalov-nknroz5mxzy-unsplash.webp
 category: opinion

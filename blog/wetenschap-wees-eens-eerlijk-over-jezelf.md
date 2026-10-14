@@ -1,6 +1,6 @@
 ---
 title: Wetenschap, Wees Eens Eerlijk Over Jezelf!
-date: 2019-12-18T15:53:10.000Z
+date: 2019-12-18T15:53:00Z
 excerpt: Vorige week presenteerde minister Van Engelshoven haar langverwachte ‘Strategische Agenda voor het hoger onderwijs en onderzoek’.
 image: /uploads/blog/wetenschap-wees-eens-eerlijk-over-jezelf/wetenschap-wees-eens-eerlijk-over-jezelf.webp
 category: opinion

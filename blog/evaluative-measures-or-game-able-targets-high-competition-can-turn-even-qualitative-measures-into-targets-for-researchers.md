@@ -1,6 +1,6 @@
 ---
 title: Evaluative Measures or Game-Able Targets? Academic Competition Can Turn Even Qualitative Measures into Targets for Researchers
-date: 2023-04-26T03:58:00.000Z
+date: 2023-04-26T03:58:00Z
 excerpt: Although the global switch from quantitative to qualitative evaluation measures is certainly necessary, without lowering academic competition they too might become game-able targets.
 image: /uploads/blog/evaluative-measures-or-game-able-targets-high-competition-can-turn-even-qualitative-measures-into-targets-for-researchers/florian-schmetz-lbvkwiaz6ey-unsplash.webp
 category: opinion

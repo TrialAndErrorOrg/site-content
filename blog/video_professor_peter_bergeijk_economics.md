@@ -1,6 +1,6 @@
 ---
 title: "Video: Professor Peter Bergeijk's  'On the inaccuracies of economic observations'"
-date: 2025-01-30T23:00:00.000Z
+date: 2025-01-30T23:00:00Z
 excerpt: "Video: Professor Peter Bergeijk's On the inaccuracies of economic observations"
 image: /uploads/blog/video_professor_peter_bergeijk_economics/snapshot-video.webp
 category: news

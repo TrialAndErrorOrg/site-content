@@ -1,6 +1,6 @@
 ---
 title: The Birth of a Journal
-date: 2019-03-09T10:00:00.000Z
+date: 2019-03-09T10:00:00Z
 excerpt: An Open Science talk by Dr. Katja Mayer, who investigates practices of Open Science in computational Open Science and big data...
 image: /uploads/blog/2-the-birth-of-a-journal/bar-coffee.webp
 category: behind-the-scenes

@@ -1,6 +1,6 @@
 ---
 title: "JOTE Has a New Publishing Format: Registered Reports"
-date: 2024-03-17T23:00:00.000Z
+date: 2024-03-17T23:00:00Z
 excerpt: We will welcome submissions for registered reports (RRs)! We see moves to publishing RRs as part of a broader, cultural move in academia towards more rigorous and transparent research.
 image: /uploads/blog/jote-publishing-format-registeredreports/registered-reports-format-v1.webp
 category: news

@@ -1,6 +1,6 @@
 ---
 title: Becoming an Open Access Online Journal
-date: 2019-06-12T16:17:23.000Z
+date: 2019-06-12T16:17:00Z
 excerpt: The how-to articles on setting up the infrastructure needed for a journal have been for us a rough sketch of a road that we have been traveling mostly, and proudly, off-road.
 image: /uploads/blog/8-becoming-an-open-access-online-journal/open-access-logo-transformed.webp
 category: behind-the-scenes

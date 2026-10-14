@@ -1,6 +1,6 @@
 ---
 title: Humble Beginnings
-date: 2019-03-11T19:25:00.000Z
+date: 2019-03-11T19:25:00Z
 excerpt: Underlying our interest in establishing a humanistic science journal, was a need of constructing, not deconstructing, and by doing so, positively contributing to the intellectual scene...
 image: /uploads/blog/3-humble-beginnings/bar-coffee3.webp
 category: behind-the-scenes

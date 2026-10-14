@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Engines of Science Correction in the Biosciences - And How They Sometimes Run Out of Steam"
-date: 2025-09-01T22:00:00.000Z
+date: 2025-09-01T22:00:00Z
 excerpt: Scientific correction is often imagined as a clear-cut, procedural, and largely self-contained response to error
 image: /uploads/blog/engines-of-science-correction-in-the-biosciences-and-how-they-sometimes-run-out-of-steam/augustus.webp
 category: culture-of-trial-and-error

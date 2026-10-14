@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Wissenschaftschmerz"
-date: 2025-06-02T22:00:00.000Z
+date: 2025-06-02T22:00:00Z
 excerpt: Something is rotten in the state of science.
 image: /uploads/blog/wissenschaftschmerz/steve-johnson-zmhynpeqzo-unsplash3.webp
 category: culture-of-trial-and-error

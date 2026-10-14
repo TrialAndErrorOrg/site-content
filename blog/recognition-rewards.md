@@ -1,6 +1,6 @@
 ---
 title: How 'Recognition and Rewards' in Dutch Academia Turned Metrics into Incentives
-date: 2023-02-27T11:00:00.000Z
+date: 2023-02-27T11:00:00Z
 excerpt: In recent attempts to reform research assesment, metrics have explicitly become “incentives”. Yet, the Dutch debate about this transition focussed on the wrong elements.
 image: /uploads/blog/recognition-rewards/elena-leya-x2lmelwtmfm-unsplash-1.webp
 category: opinion

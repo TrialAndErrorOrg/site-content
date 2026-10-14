@@ -1,6 +1,6 @@
 ---
 title: "Cultures of Trial and Error: Hoaxes, Thought Experiments & Science Sleuths: Sniffing Out Ways to Correct the Scientific Record"
-date: 2025-06-29T22:00:00.000Z
+date: 2025-06-29T22:00:00Z
 excerpt: In August 2024, a peculiar letter to the editor titled “Practice of Neurosurgery on Saturn” was published in the International Journal of Surgery Case Reports.
 image: /uploads/blog/cultures-of-trial-and-error-hoaxes-thought-experiments-and-science-sleuths-sniffing-out-ways-to-correct-the-scientific/steve-johnson-zmhynpeqzo-unsplash-post-mady.webp
 category: culture-of-trial-and-error

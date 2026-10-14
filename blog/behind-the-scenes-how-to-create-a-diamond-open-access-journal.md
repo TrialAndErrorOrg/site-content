@@ -1,6 +1,6 @@
 ---
 title: "Behind the Scenes: How to Set Up a Diamond Open Access Journal?"
-date: 2026-03-11T23:00:00.000Z
+date: 2026-03-11T23:00:00Z
 excerpt: In this post, we explore the practical steps and considerations involved in setting up a Diamond Open Access (OA) journal.
 image: /uploads/blog/behind-the-scenes-how-to-create-a-diamond-open-access-journal/bas-van-den-eijkhof-hmwvqjepxoq-unsplash.webp
 category: behind-the-scenes

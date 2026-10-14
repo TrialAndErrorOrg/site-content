@@ -1,6 +1,6 @@
 ---
 title: "Founding JOTE: A Conversation with Stefan Gaillard: “I Believe That Positive Publication Bias is Actively Harming Science”"
-date: 2024-08-04T22:00:00.000Z
+date: 2024-08-04T22:00:00Z
 excerpt: What were the views and ideals of JOTE's co-founders, and how did they differ from each other? In this post, we ask it Stefan Gaillard.
 image: /uploads/blog/founding-jote-a-conversation-with-stefan-gaillard-i-believe-that-positive-publication-bias-is-actively-harming-science/stefan-npo.webp
 category: behind-the-scenes
