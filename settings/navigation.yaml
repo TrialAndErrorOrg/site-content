@@ -33,7 +33,7 @@ header:
 # The pages it links to still live on PubPub for now.
 journal:
   - title: Articles
-    url: /journal
+    url: /journal/articles
   - title: Issues
     url: /journal/issues
   - title: Publish with us

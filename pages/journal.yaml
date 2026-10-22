@@ -1,0 +1,29 @@
+title: Journal of Trial and Error
+description: An independent, diamond open-access journal redefining failure.
+sections:
+  - type: hero
+    color: journal
+    # Each line becomes its own box
+    title: |-
+      Journal of
+      Trial and Error
+    subtitle: An independent, diamond open-access journal redefining failure.
+    text: >-
+      We publish the work that usually stays in the drawer: null results, failed
+      replications, methods that didn't work, and reflections on what went wrong and why.
+      Free to read, free to publish.
+    buttons:
+      - label: Submit your work
+        url: https://submit.trialanderror.org/jote
+      - label: Browse all articles
+        url: /journal/articles
+        style: plain
+
+  - type: latest-articles
+    title: Latest articles
+    count: 8
+    style: list
+
+  - type: issues
+    title: Latest issues
+    count: 3
