@@ -3,11 +3,11 @@
 # accent (orange, the default), accent-soft (light orange) or journal (blue).
 
 header:
-  - title: Blog
-    url: /blog
   - title: Journal
     url: /journal
     color: journal
+  - title: Blog
+    url: /blog
   - title: Donate
     url: /donate
     color: accent-soft
