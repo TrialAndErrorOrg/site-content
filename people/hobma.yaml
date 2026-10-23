@@ -1,15 +1,13 @@
 firstName: Marcel
 lastName: Hobma
 team: true
-position: Blog Editor, Social Media Manager
-email: hobma@trialanderror.org
-summary: Marcel Hobma is a student in History and Philosophy of Science, and trained as an (investigative) journalist. His interests vary from the Philosophy of Biology to the incentive structure of science. He currently works on his Master's thesis on the cultural evolution of values in nutrition science.
+position: Blog Writer, Board Member, Finances
+summary: Marcel Hobma is a (freelance) investigative & science journalist. He studied History and Philosophy of Science (rMSc), and is interested in cultural evolution and the incentive structure of science. He also writes about academia and biomedical sciences.
 image: /uploads/people/hobma-1.webp
+email: hobma@trialanderror.org
+orcid: https://orcid.org/0000-0001-8216-4268
 links:
   - icon: linkedin
     url: https://www.linkedin.com/in/marcel-hobma-28a342106/
-  - icon: twitter
-    url: https://twitter.com/marcel_hobma
-orcid: https://orcid.org/0000-0001-8216-4268
 aliases:
   - hobma-1
