@@ -6,6 +6,8 @@ authors:
 category: behind-the-scenes
 tags:
   - eosc
+  - grail
+  - open science
 excerpt: Relatedly, we spent some time thinking about how GRAIL could best fit into the existing EOSC Node landscape. Maybe it would be best for us to be a part of a larger, national network of Nodes?
 image: /uploads/blog/GRAILM3_4/screenshot-2026-10-09-at-11-30-42.webp
 related:
