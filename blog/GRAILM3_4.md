@@ -1,20 +1,18 @@
 ---
 title: GRAIL EOSC Gravity Update Month 3 and 4
 date: 2026-09-23T13:24:00Z
-excerpt: Relatedly, we spent some time thinking about how GRAIL could best fit into the existing EOSC Node landscape. Maybe it would be best for us to be a part of a larger, national network of Nodes?
-image: /uploads/blog/GRAILM3_4/screenshot-2026-10-09-at-11-30-42.webp
+authors:
+  - burke
 category: behind-the-scenes
 tags:
   - eosc
-authors:
-  - burke
+excerpt: Relatedly, we spent some time thinking about how GRAIL could best fit into the existing EOSC Node landscape. Maybe it would be best for us to be a part of a larger, national network of Nodes?
+image: /uploads/blog/GRAILM3_4/screenshot-2026-10-09-at-11-30-42.webp
 related:
   - grail-eosc-gravity-project-month-1-and-2-update
 ---
 
-GRAIL EOSC Gravity Project Month 3 and 4 Update
-
-The Grant Reuse and Abandoned Ideas Library is an EOSC Gravity funded Preparatory Project exploring what it would look like to participate in the Federations’ Tripartite Node Enrolment. In our [first blogpost](https://blog.trialanderror.org/grail-eosc-gravity-project-month-1-and-2-update), we detailed our orientation process and reflected on the obstacles we had experienced in getting used to working within the EOSC framework. In this post, we will focus on the work we have been doing behind the scenes to put together our recently submitted Project Charter, a document whose function is to describe what GRAIL *would* be *if* it were enrolled as a Node, a function it took us quite a while to fully understand.
+The Grant Reuse and Abandoned Ideas Library is an EOSC Gravity funded Preparatory Project exploring what it would look like to participate in the Federations’ Tripartite Node Enrolment. In our [first blogpost](https://blog.trialanderror.org/grail-eosc-gravity-project-month-1-and-2-update), we detailed our orientation process and reflected on the obstacles we had experienced in getting used to working within the EOSC framework. In this post, we will focus on the work we have been doing behind the scenes to put together our recently submitted Project Charter, a document whose function is to describe what GRAIL _would_ be _if_ it were enrolled as a Node, a function it took us quite a while to fully understand.
 
 For most of month 3, we were focused on doing the actual work we promised we would deliver in our project plan – finalizing and analyzing the qualitative interviews we conducted, building out spec pages and digital architecture for the repository itself, working on the legal framework for the functioning of a repository for rejected grant proposals and abandoned ideas, determining the governance and organizational structure of GRAIL, and establishing the network in which we would be embedded as a digital service provider. Our technical team was able to get a [demo](https://grail-demo.trialanderror.org/) of the repository live, and we were feeling quite happy with our progress.
 
