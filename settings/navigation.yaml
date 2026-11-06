@@ -39,7 +39,7 @@ journal:
   - title: Publish with us
     children:
       - title: For Authors
-        url: https://journal.trialanderror.org/for-authors
+        url: /journal/for-authors
       - title: Aims & Scope
         url: https://journal.trialanderror.org/aims-and-scope
       - title: Open Access Policy
