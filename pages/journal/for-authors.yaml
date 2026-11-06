@@ -44,8 +44,9 @@ sections:
                 items:
                   - title: Also required
                     body: >-
-                      Open data and analysis code (see [section 3](#open)), and a CRediT author-roles
-                      statement if you have co-authors (see [section 4](#authorship)).
+                      Open data and analysis code (see [section 3](#open)), a CRediT author-roles
+                      statement if you have co-authors (see [section 4](#authorship)), and a conflicts of
+                      interest statement (see [section 2](#prepare)).
                   - title: Paired with a reflection
                     body: >-
                       Each empirical article in JOTE is accompanied by a reflection article by a humanities
@@ -56,8 +57,8 @@ sections:
             summary: An expert or humanities perspective on what went wrong, and why.
             facts:
               - { label: Structure, value: "keywords, take-home message, abstract, then free-form" }
-              - { label: Open data & code, value: not required }
-              - { label: Review, value: standard open review }
+              - { label: Open data & code, value: required if relevant }
+              - { label: Review, value: editorial review }
             heading: "Reflection article: what to include"
             blocks:
               - type: parts
@@ -111,7 +112,7 @@ sections:
             facts:
               - { label: Structure, value: "keywords, take-home message, abstract, then free-form" }
               - { label: Open data & code, value: not required }
-              - { label: Review, value: editorial review only }
+              - { label: Review, value: editorial review }
             heading: "Perspective: what to include"
             note: Include these parts, in this order.
             blocks:
@@ -127,17 +128,16 @@ sections:
                   - title: Take-home message
                     text: "**Max. 3 sentences / 50 words.** A high-level summary of the most important take-away from the article."
                   - { title: Abstract, text: "**150–250 words.**" }
-                  - { title: Body, text: Yours to shape. Organise it however best serves your argument. }
+                  - title: Body
+                    text: >-
+                      Yours to shape. Organise it however best serves your argument. We don’t set a strict
+                      word limit, but recommend fewer than 5,000 words, excluding references and appendices.
               - type: cards
                 items:
-                  - title: Length
-                    body: >-
-                      No word limit. As a guide, aim for something readers can finish in about 10 minutes:
-                      roughly 2,000–2,500 words.
                   - title: Editorial review
                     body: Your handling editor reviews the piece and gives feedback. There are no external peer reviewers.
                   - title: Tone
-                    body: Opinionated is welcome. We will not publish ad-hominem attacks or bad-faith debate.
+                    body: Opinionated is welcome. However, we will not publish ad-hominem attacks or bad-faith debate.
 
       - title: Special review routes
         note: Optional. Choose one only if it fits your situation.
@@ -286,6 +286,24 @@ sections:
                       Share data, code and materials as with any submission, or your manuscript may be
                       desk-rejected.
 
+      - title: Standard Open Review
+        note: The default review process for Empirical and Meta-research articles.
+        options:
+          - title: Open Peer Review
+            summary: >-
+              Authors know who the peer reviewers are, and the peer reviewers know who the authors are.
+              We have published reviews in the past but currently do not, and will never publish them
+              without telling all parties first.
+            facts:
+              - { label: For, value: empirical and meta-research articles }
+          - title: Conflicts of Interest
+            summary: >-
+              If you have worked closely with the author(s) in the past 5 years, for example as
+              collaborators, mentors or co-applicants, or you work at the same institution, you should
+              decline the invitation to review.
+            facts:
+              - { label: For, value: all review types }
+
   - type: cards
     id: prepare
     eyebrow: Step 2 · All article types
@@ -296,7 +314,7 @@ sections:
     items:
       - title: .docx file
         status: required
-        body: Writing in .tex, .(r)md or .org? Convert to .docx first, e.g. with Pandoc.
+        body: Writing in .tex, .(r)md or anything else? Convert to .docx first, e.g. with Pandoc.
       - title: APA 7 style and citations
         status: required
         body: Incomplete or error-filled reference lists, or citations missing from the text, will be returned to you.
@@ -307,16 +325,14 @@ sections:
         body: >-
           Everything except raw data goes in the manuscript file. Upload separately only material that
           doesn’t fit the text flow (e.g. grant rejection letters).
-      - title: Keep citation-manager fields live
-        status: recommended
+      - title: Conflicts of interest statement
+        status: required
         body: >-
-          Don’t convert Zotero, Mendeley, EndNote etc. citations to plain text. Also send an export
-          (.bib, CSL-JSON, EndNote XML or RIS). Both speed up production.
+          State any financial or non-financial potential conflicts of interest related to the research
+          or the submission process. If there are none, say so explicitly.
       - title: Visualise rather than tabulate
         status: recommended
-        body: >-
-          Put plain tables in your open dataset. Need help? We offer a limited free visualisation
-          service: ask in your comments to the editor.
+        body: Put plain tables in your open dataset.
       - title: Word limit
         status: not-needed
         body: "Digital ink is free. Do be succinct: overly long articles may be returned before review."
@@ -338,11 +354,11 @@ sections:
         look: headed
         body: |-
           **Option A · Publish it yourself**<br>
-          On Zenodo, OSF, GitHub, GitLab, ResearchEquals or similar, under an open licence. Link to it in
-          your manuscript.
+          On Zenodo, GitHub, GitLab, ResearchEquals, 4TU.ResearchData, DANS or similar, under an open
+          licence. Link to it in your manuscript.
 
           **Option B · Send it to us**<br>
-          Include it with your submission. We publish it on our OSF under CC-BY 4.0, or another open
+          Include it with your submission. We publish it on Zenodo under CC-BY 4.0, or another open
           licence you choose.
       - title: Code & scripts
         look: headed
@@ -395,20 +411,20 @@ sections:
         badge: Required if 2+ authors
         body: After the title, before the abstract.
         tags:
-          - Conceptualization
-          - Data curation
-          - Formal analysis
-          - Funding acquisition
-          - Investigation
-          - Methodology
-          - Project administration
-          - Resources
-          - Software
-          - Supervision
-          - Validation
-          - Visualization
-          - Writing – original draft
-          - Writing – review & editing
+          - "[Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/)"
+          - "[Data curation](https://credit.niso.org/contributor-roles/data-curation/)"
+          - "[Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/)"
+          - "[Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/)"
+          - "[Investigation](https://credit.niso.org/contributor-roles/investigation/)"
+          - "[Methodology](https://credit.niso.org/contributor-roles/methodology/)"
+          - "[Project administration](https://credit.niso.org/contributor-roles/project-administration/)"
+          - "[Resources](https://credit.niso.org/contributor-roles/resources/)"
+          - "[Software](https://credit.niso.org/contributor-roles/software/)"
+          - "[Supervision](https://credit.niso.org/contributor-roles/supervision/)"
+          - "[Validation](https://credit.niso.org/contributor-roles/validation/)"
+          - "[Visualization](https://credit.niso.org/contributor-roles/visualization/)"
+          - "[Writing – original draft](https://credit.niso.org/contributor-roles/writing-original-draft/)"
+          - "[Writing – review & editing](https://credit.niso.org/contributor-roles/writing-review-editing/)"
       - title: Who counts as an author?
         body: >-
           We follow the ICMJE criteria. Contributors who meet only some go in the acknowledgements
@@ -438,7 +454,7 @@ sections:
           - { title: Production, text: We produce the final version. }
           - { title: Your proof check, text: You have one week. }
           - { title: Published, text: On journal.trialanderror.org, highlight: true }
-      - label: Perspective
+      - label: Perspective & Reflection
         steps:
           - { title: Editor assigned, text: The editor-in-chief picks a handling editor. }
           - { title: Editorial review, text: The editor reads your piece and sends feedback. No external reviewers. }
@@ -455,10 +471,6 @@ sections:
           - { title: Stage 2 review, text: Ideally the same reviewers check adherence to the plan. }
           - { title: Production & proofs, text: Copyediting, typesetting, your approval. Data made open. }
           - { title: Published, text: Whatever your results. }
-    note: >-
-      **About open peer review:** authors and reviewers know each other’s identities. We have
-      published reviews in the past but currently do not, and never would without telling you and
-      the reviewers first.
 
   - type: text
     title: Ready to submit?
