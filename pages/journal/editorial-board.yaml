@@ -1,0 +1,9 @@
+title: Editorial Board
+description: The editorial team of the Journal of Trial and Error.
+showTitle: true
+sections:
+  - type: editorial-board
+    intro: >-
+      The people who handle submissions to the Journal of Trial and Error. To submit an article,
+      use our [submission portal](https://submit.trialanderror.org/jote). For questions about a
+      (possible) submission, email [info@trialanderror.org](mailto:info@trialanderror.org).

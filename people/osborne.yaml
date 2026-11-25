@@ -1,0 +1,11 @@
+firstName: Tanya
+lastName: Osborne
+team: true
+position: Editor
+pronouns: they/them
+email: osborne@trialanderror.org
+summary: Tanya is an interdisciplinary social scientist working on the sociology of knowledge, conducting research in professional education contexts. They are particularly interested in why we end up not knowing things, and in how experts game performance metrics. They have a PhD in Education from Gothenburg University, Sweden.
+image: /uploads/people/osborne.webp
+orcid: https://orcid.org/0000-0002-8915-0181
+journal:
+  role: editor

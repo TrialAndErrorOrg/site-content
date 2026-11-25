@@ -11,3 +11,6 @@ links:
   - icon: twitter
     url: https://twitter.com/sdmgaillard
 orcid: https://orcid.org/0000-0003-1956-7325
+journal:
+  role: section-editor
+  section: Reflection Articles
