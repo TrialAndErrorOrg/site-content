@@ -34,10 +34,10 @@ newsletter:
   # https://trialanderror.us21.list-manage.com/subscribe/post?u=3b2e720baa7621e1bde91b1a2&id=13b78e80c7&f_id=0099c0e1f0
   action: https://centeroftrialanderror.substack.com/api/v1/free?nojs=true
 
-analytics:
-  # Umami, self-hosted
-  script: https://analytics.trialanderror.org/script.js
-  websiteId: 60d1573a-ec6c-43e7-88cb-2fdaae0701b1
+# Page views are counted with GoatCounter (decided 2026-11-25, replacing Umami at
+# analytics.trialanderror.org). Uncomment once the GoatCounter instance runs:
+# analytics:
+#   goatcounter: https://stats.trialanderror.org
 
 # Google Ads conversion tracking, only on these pages and only after consent
 adTracking:
