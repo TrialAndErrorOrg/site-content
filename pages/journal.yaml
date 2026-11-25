@@ -3,10 +3,11 @@ description: An independent, diamond open-access journal redefining failure.
 sections:
   - type: hero
     color: journal
+    stats: true
     # Each line becomes its own box
     title: |-
       Journal of
-      Trial and Error
+      Trial & Error.
     subtitle: An independent, diamond open-access journal redefining failure.
     text: >-
       We publish the work that usually stays in the drawer: null results, failed
@@ -15,15 +16,42 @@ sections:
     buttons:
       - label: Submit your work
         url: https://submit.trialanderror.org/jote
-      - label: Browse all articles
-        url: /journal/articles
+      - label: How to publish with us
+        url: /journal/for-authors
         style: plain
 
   - type: latest-articles
     title: Latest articles
-    count: 8
-    style: list
+    count: 6
+    style: featured
+
+  - type: article-types
+    title: Browse by type
+    intro: >-
+      Every empirical article comes with a reflection from someone outside the field, on what
+      went wrong and what we can learn from it.
+    types:
+      - { kind: Empirical, text: "Studies that failed, changed course or found nothing, written up in full." }
+      - { kind: Meta-Research, text: "Research on research: practices, incentives and misconduct." }
+      - { kind: Reflection, text: "A humanities scholar or other expert on what went wrong, and why." }
+      - { kind: Perspective, text: "Reasoned opinions on how research is done." }
+      - { kind: Commentary, text: "Responses to articles in the journal." }
+      - { kind: Anecdotes, text: "Short stories of research that didn't go to plan." }
+      - { kind: Rejected Grant Application, text: "Grant proposals that were turned down." }
+      - { kind: Peer Reviews, text: "The open reviews of our articles." }
+      - { kind: Editorial, text: "From the editors." }
 
   - type: issues
     title: Latest issues
     count: 3
+
+  - type: text
+    title: Publish your trial and error
+    background: journal
+    body: >-
+      Diamond open access: no fees for authors or readers. Open peer review, open data, and a
+      reflection paired with every empirical article. Not sure your work fits? Read the guide or
+      write to [info@trialanderror.org](mailto:info@trialanderror.org).
+    buttons:
+      - { label: Read the guide for authors, url: /journal/for-authors }
+      - { label: Submit through our portal →, url: "https://submit.trialanderror.org/jote", style: plain }
