@@ -1,0 +1,10 @@
+title: Thank you!
+description: Thank you for donating to the Center of Trial and Error.
+showTitle: true
+sections:
+  - type: text
+    body: |-
+      Thank you for donating! Your donation will go a long way.
+
+      Want to hear what it makes possible? [Subscribe to our newsletter](https://centeroftrialanderror.substack.com/subscribe), or read [the latest from the journal](/journal).
+    background: paper

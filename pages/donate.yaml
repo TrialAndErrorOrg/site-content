@@ -1,0 +1,36 @@
+title: Support the Center of Trial and Error
+description: Help keep our journals free to read and free to publish in.
+showTitle: true
+sections:
+  - type: text
+    body: |-
+      The Center of Trial and Error promotes open science, first of all through our diamond open access journals: the [Journal of Trial and Error](/journal) and the [Journal for Reproducibility in Neuroscience](/jrn). We publish research across the full range of scientific inquiry, and value transparency and learning from every outcome.
+    background: paper
+
+  - type: donate
+    title: Make a donation
+    text: |-
+      A one-time donation goes through Stripe. You can also transfer to our bank account directly. As a Dutch charity with ANBI status, gifts to us may be tax deductible in the Netherlands ([legal status](/legal-status)).
+    stripe:
+      buttonId: buy_btn_1Ormi3KUnItQFjxmELHXBr1S
+      publishableKey: pk_live_51LSfjzKUnItQFjxm1bTYEWyDc8MidCn1Y1UauQ9s3Rn9KdDJtiWdpvdj5j74DteUaGOBSEnEHLJ0zCXqeDK9QF4B00ZtzI7216
+    bank:
+      name: Stichting Journal of Trial and Error
+      iban: NL96BUNQ2057101282
+      bic: BUNQNL2AXXX
+
+  - type: text
+    title: Why we need your support
+    body: |-
+      Diamond open access means our journals are free to read and free to publish in, so money is never what stops knowledge from being shared. Keeping it that way takes resources:
+
+      - **Running costs**: from modest reimbursements for our team to the digital infrastructure the journals run on.
+      - **No publication fees**: your support lets researchers anywhere share their findings, and read others' work, for free.
+      - **New initiatives**: new projects that promote open science and widen the reach of research.
+
+      Your contribution helps a culture of transparency and collaboration that scientific progress depends on.
+    background: paper
+
+  - type: supporters
+    title: With thanks to
+    intro: The organisations and people whose support keeps the Center going.

@@ -1,0 +1,40 @@
+title: Legal Status
+description: The Center of Trial and Error is run by the non-profit Stichting Journal of Trial and Error, a Dutch charity with ANBI status.
+showTitle: true
+sections:
+  - type: text
+    body: |-
+      The Center of Trial & Error is administered by the non-profit organization *Stichting Journal of Trial & Error*, based in the Netherlands. Under Dutch law we are a charitable institution with ANBI status (Algemeen nut beogende instelling).
+    background: paper
+
+  - type: text
+    title: Details
+    body: |-
+      - **Statutory name**: Stichting Journal of Trial and Error
+      - **Fiscal number (RSIN)**: 861459477
+      - **IBAN**: NL96BUNQ2057101282
+      - **BIC**: BUNQNL2AXXX
+      - **Board members**: Stefan Gaillard (Chair), Maura Burke (General Board Member), Alex Visser (Secretary), Marcel Hobma (Treasurer), and Thomas Jorna (General Board Member)
+    background: accent-soft
+
+  - type: text
+    title: Rewarding policy
+    body: |-
+      In addition to our necessary operational fees, the board identifies members who are to be reimbursed by the Journal of Trial and Error. These members receive a modest reimbursement for their time. The Journal of Trial and Error does not offer competitive salaries. The board determines all reimbursements in yearly meetings, where each board member has one (1) vote.
+    background: paper
+
+  - type: text
+    title: Policy plans
+    body: |-
+      - [Policy Plan 2024](/uploads/documents/policy-plan-2024.pdf) (PDF)
+      - [Policy Plan 2020–2023](/uploads/documents/policy-plan-2020-2023.pdf) (PDF)
+    background: paper
+
+  - type: text
+    title: Financial reports
+    body: |-
+      - [Financial Report 2024](/uploads/documents/financial-report-2024.pdf) (PDF)
+      - [Financial Report 2023](/uploads/documents/financial-report-2023.pdf) (PDF)
+      - [Financial Report 2022](/uploads/documents/financial-report-2022.pdf) (PDF)
+      - [Financial Report 2021](/uploads/documents/financial-report-2021.pdf) (PDF)
+    background: paper
