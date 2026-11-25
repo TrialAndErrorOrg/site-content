@@ -1,0 +1,11 @@
+firstName: Florencia
+lastName: Abinzano
+team: true
+position: Life Sciences Editor
+email: abinzano@trialanderror.org
+summary: Florencia is a researcher in regenerative medicine with expertise in tissue engineering and biomedical innovation. Having experienced firsthand the value of publishing unexpected experimental results, she is eager to promote Open Science and foster a research culture that learns from scientific failure. She is also passionate about mentoring young researchers and advancing STEM education. She holds a PhD in Regenerative Medicine from Utrecht University and master's degrees in Biomedical and Industrial Engineering.
+image: /uploads/people/abinzano.webp
+orcid: https://orcid.org/0000-0003-1382-0107
+journal:
+  role: section-editor
+  section: Life Sciences

@@ -1,0 +1,482 @@
+title: For Authors
+description: Everything you need to submit to the Journal of Trial and Error, step by step.
+showTitle: true
+sections:
+  - type: contents
+
+  - type: chooser
+    id: types
+    eyebrow: Step 1
+    title: Choose your article type
+    short: Article types
+    intro: >-
+      JOTE publishes four kinds of articles. Some manuscripts can also go through one of two
+      special review routes. Select a card to see what that type requires.
+    groups:
+      - title: What are you submitting?
+        options:
+          - title: Empirical article
+            id: empirical
+            summary: A study you carried out, whatever happened along the way.
+            facts:
+              - { label: Structure, value: set (8 parts) }
+              - { label: Open data & code, value: required }
+              - { label: Review, value: standard open review }
+            heading: "Empirical article: what to include"
+            note: Include these parts, in this order.
+            blocks:
+              - type: parts
+                items:
+                  - { title: Keywords, text: Provide up to 5 keywords. }
+                  - title: Take-home message
+                    text: "**Max. 3 sentences / 50 words.** A high-level summary of the most important take-away from the research."
+                  - { title: Abstract, text: "**150–250 words.**" }
+                  - title: Purpose
+                    text: >-
+                      **Max. 250 words.** Your study’s objective(s) and *initial* hypothesis: the original
+                      idea behind the article. Refer back to it in your conclusion to explain how the research
+                      failed or changed. In the published article this section is placed near the discussion.
+                  - { title: Introduction, text: No length limit. }
+                  - { title: Method, text: No length limit. }
+                  - { title: Discussion, text: No length limit. }
+                  - { title: Conclusion, text: Link back to your purpose section. }
+              - type: cards
+                items:
+                  - title: Also required
+                    body: >-
+                      Open data and analysis code (see [section 3](#open)), a CRediT author-roles
+                      statement if you have co-authors (see [section 4](#authorship)), and a conflicts of
+                      interest statement (see [section 2](#prepare)).
+                  - title: Paired with a reflection
+                    body: >-
+                      Each empirical article in JOTE is accompanied by a reflection article by a humanities
+                      scholar or other expert. If you both wish, you can communicate through the editor.
+
+          - title: Reflection article
+            id: reflection
+            summary: An expert or humanities perspective on what went wrong, and why.
+            facts:
+              - { label: Structure, value: "keywords, take-home message, abstract, then free-form" }
+              - { label: Open data & code, value: required if relevant }
+              - { label: Review, value: editorial review }
+            heading: "Reflection article: what to include"
+            blocks:
+              - type: parts
+                items:
+                  - { title: Keywords, text: Provide up to 5 keywords. }
+                  - title: Take-home message
+                    text: "**Max. 3 sentences / 50 words.** A high-level summary of the most important take-away from the article."
+                  - { title: Abstract, text: "**150–250 words.**" }
+                  - { title: Body, text: Yours to shape. Organise it however best serves your argument. }
+              - type: cards
+                items:
+                  - title: Formatting
+                    body: The rules in [section 2](#prepare) apply, as for every article type.
+                  - title: Tone
+                    body: >-
+                      Critique is welcome, including of misconduct. We will not publish ad-hominem attacks
+                      or bad-faith debate. Unsure? Contact the editor-in-chief.
+
+          - title: Meta-research article
+            id: meta-research
+            summary: "Research on research: practices, culture, and misconduct."
+            facts:
+              - { label: Structure, value: "keywords, take-home message, abstract, then free-form" }
+              - { label: Open data & code, value: required }
+              - { label: Review, value: standard open review }
+            heading: "Meta-research article: what to include"
+            blocks:
+              - type: parts
+                items:
+                  - { title: Keywords, text: Provide up to 5 keywords. }
+                  - title: Take-home message
+                    text: "**Max. 3 sentences / 50 words.** A high-level summary of the most important take-away from the research."
+                  - { title: Abstract, text: "**150–250 words.**" }
+                  - { title: Body, text: Yours to shape. Organise it however best serves your research. }
+              - type: cards
+                items:
+                  - title: Open data & code required
+                    body: If you (re)produce or validate data, share it, or explain why you can’t. See [section 3](#open).
+                  - title: Writing about misconduct
+                    look: soft
+                    body: >-
+                      We welcome articles that analyse and reflect on misconduct: to reform academic culture,
+                      its problems must be discussed. But we will not publish ad-hominem attacks or articles
+                      that encourage bad-faith debate. Please adopt a kind and impartial tone. Unsure whether
+                      your article is suitable? Contact the editor-in-chief for advice.
+
+          - title: Perspective
+            id: perspective
+            badge: New
+            summary: "A reasoned opinion on how research is done: somewhere between a blog post and a full article."
+            facts:
+              - { label: Structure, value: "keywords, take-home message, abstract, then free-form" }
+              - { label: Open data & code, value: not required }
+              - { label: Review, value: editorial review }
+            heading: "Perspective: what to include"
+            note: Include these parts, in this order.
+            blocks:
+              - type: text
+                body: >-
+                  A Perspective is an opinion piece: more developed than a blog post, less formal than a
+                  full article. We welcome arguments about research practice and culture (failure,
+                  publishing, incentives, open science), and especially pieces grounded in your own
+                  research experience.
+              - type: parts
+                items:
+                  - { title: Keywords, text: Provide up to 5 keywords. }
+                  - title: Take-home message
+                    text: "**Max. 3 sentences / 50 words.** A high-level summary of the most important take-away from the article."
+                  - { title: Abstract, text: "**150–250 words.**" }
+                  - title: Body
+                    text: >-
+                      Yours to shape. Organise it however best serves your argument. We don’t set a strict
+                      word limit, but recommend fewer than 5,000 words, excluding references and appendices.
+              - type: cards
+                items:
+                  - title: Editorial review
+                    body: Your handling editor reviews the piece and gives feedback. There are no external peer reviewers.
+                  - title: Tone
+                    body: Opinionated is welcome. However, we will not publish ad-hominem attacks or bad-faith debate.
+
+      - title: Special review routes
+        note: Optional. Choose one only if it fits your situation.
+        options:
+          - title: Registered Report
+            id: registered-report
+            badge: Pilot
+            tone: journal
+            summary: >-
+              Submit your study plan before you collect data. If we accept the plan, we publish the
+              result, whatever it is.
+            facts:
+              - { label: For, value: empirical studies not yet carried out }
+              - { label: Review, value: "two stages (the plan, then the results)" }
+            heading: "Registered Report: how it works"
+            note: Pilot
+            blocks:
+              - type: steps
+                steps:
+                  - kicker: Stage 1 · You
+                    title: Submit your protocol
+                    text: Introduction, aims, hypotheses or research questions, full method and analysis plan.
+                  - kicker: Stage 1 · Us
+                    title: Plan is peer reviewed
+                    text: 3–4 reviewers, covering method and content. Revise as needed.
+                  - kicker: Milestone
+                    title: In-principle acceptance
+                    text: We commit to publishing, whatever your results.
+                    highlight: true
+                  - kicker: You
+                    title: Run the study as planned
+                    text: Keep track of any deviations.
+                  - kicker: Stage 2 · You
+                    title: Submit the full manuscript
+                    text: Keep the plan as-is, in past tense. Report deviations in their own section.
+                  - kicker: Stage 2 · Us
+                    title: Final review, then publication
+                    text: Ideally by the same reviewers.
+              - type: cards
+                items:
+                  - title: If things don’t go to plan
+                    body: >-
+                      Unforeseeable problems (e.g. equipment failure): report them clearly in Stage 2.
+                      Foreseeable changes (e.g. sample size): contact your handling editor *before* you deviate.
+                  - title: Exploratory analyses are welcome
+                    body: >-
+                      Put them under their own (sub)headings, separate from confirmatory ones (see Field et
+                      al., 2019, pp. 9–11).
+                  - title: Qualitative research fits too
+                    body: Delphi studies and other exploratory designs are welcome. Register everything that can be planned.
+              - type: cards
+                items:
+                  - title: Reviewers assess your Stage 1 protocol on
+                    look: plain
+                    body: |-
+                      - **Scientific validity** of the research questions and hypotheses
+                      - **Methodological soundness** of design, sample and recruitment
+                      - **Analysis plan**, including power and quality checks
+                      - **Feasibility**
+                      - **Clarity and detail**: don’t be afraid to write a long protocol
+
+                      Protocols far from these criteria are desk-rejected without option to resubmit.
+                  - title: Reviewers assess your Stage 2 manuscript on
+                    look: plain
+                    body: |-
+                      - **Quality checks**: were they run, and do the data validly test the plan?
+                      - **Adherence** to Stage 1, with deviations reported and justified
+                      - **Exploratory analyses** clearly separated from confirmatory ones
+                      - **Conclusions** that are nuanced and don’t oversell
+              - type: text
+                body: Not sure your study suits a Registered Report? Contact Sarahanne Field, [ROLE], at [EMAIL].
+              - type: more
+                label: Read the full RR primer
+                body: |-
+                  #### Registered Reports: a primer
+
+                  **Preregistration and the Stage 1 protocol.** In a registered report (RR), you write out
+                  your study plan before conducting it. Posted publicly on its own (e.g. on the OSF), this
+                  plan is a preregistration. Submitted to a journal that accepts RRs, it becomes a Stage 1
+                  protocol and is peer-reviewed. Reviewers see only the first 60% of the article, and their
+                  feedback improves a study that has not yet happened.
+
+                  **IPA and the Stage 2 manuscript.** Once reviewers approve the plan, you receive
+                  in-principle acceptance (IPA): the journal guarantees publication of the final manuscript,
+                  typically after another review round, whether or not your results support your
+                  hypotheses, provided you followed the plan.
+
+                  **Why JOTE accepts RRs.** RRs were introduced at Cortex in 2013 (Chambers, 2013) and are
+                  now offered by over 300 journals. They fit JOTE’s mission: publishing good research
+                  regardless of outcome, separating confirmatory from exploratory work, and discouraging
+                  HARKing (Kerr, 1998).
+
+                  **About the pilot.** [UPDATE: current pilot status.] Most of our staff are volunteers, so
+                  we run RRs as a pilot to make sure we can give each one the attention it deserves.
+
+                  Chambers, C. D. (2013). Registered reports. *Cortex, 49*(3), 609–610. ·
+                  Field, S. M., et al. (2020). *Royal Society Open Science, 7*(4), 181351. ·
+                  Kerr, N. L. (1998). HARKing. *Personality and Social Psychology Review, 2*(3), 196–217.
+
+          - title: Streamlined Review
+            id: streamlined-review
+            tone: journal
+            summary: >-
+              Rejected elsewhere after peer review, for reasons other than quality? Bring your previous
+              reviews with you.
+            facts:
+              - { label: For, value: manuscripts rejected within the past year }
+              - { label: Review, value: builds on the previous journal’s reviews }
+            heading: "Streamlined Review: how it works"
+            blocks:
+              - type: text
+                body: >-
+                  For manuscripts rejected after peer review at another journal within the past year, for
+                  reasons *other than* the quality and soundness of the research. Modelled on *Collabra:
+                  Psychology*.
+              - type: cards
+                items:
+                  - title: "Checklist: what to send"
+                    body: |-
+                      **In your cover letter**
+
+                      - A request to be considered for Streamlined Review
+                      - The name of the journal that rejected it
+
+                      **Uploaded with your manuscript**
+
+                      - The editorial decision letter(s)
+                      - The reviews (with reviewer names, if signed)
+                      - Your responses to the reviewers
+                      - The revised manuscript, with changes marked
+                  - title: What the editor may decide
+                    body: |-
+                      1. Accept or reject based on the existing reviews alone
+                      2. Ask you for further revisions
+                      3. Send it out for new review, as with a regular submission
+              - type: cards
+                items:
+                  - title: Privacy
+                    look: plain
+                    body: >-
+                      We cannot share the previous journal’s reviews without permission from its editor and
+                      reviewers. Reviews done by JOTE follow our open peer review policy.
+                  - title: Open data still applies
+                    look: plain
+                    body: >-
+                      Share data, code and materials as with any submission, or your manuscript may be
+                      desk-rejected.
+
+      - title: Standard Open Review
+        note: The default review process for Empirical and Meta-research articles.
+        options:
+          - title: Open Peer Review
+            summary: >-
+              Authors know who the peer reviewers are, and the peer reviewers know who the authors are.
+              We have published reviews in the past but currently do not, and will never publish them
+              without telling all parties first.
+            facts:
+              - { label: For, value: empirical and meta-research articles }
+          - title: Conflicts of Interest
+            summary: >-
+              If you have worked closely with the author(s) in the past 5 years, for example as
+              collaborators, mentors or co-applicants, or you work at the same institution, you should
+              decline the invitation to review.
+            facts:
+              - { label: For, value: all review types }
+
+  - type: cards
+    id: prepare
+    eyebrow: Step 2 · All article types
+    title: Prepare your manuscript
+    short: Preparing your manuscript
+    legend: true
+    columns: 4
+    items:
+      - title: .docx file
+        status: required
+        body: Writing in .tex, .(r)md or anything else? Convert to .docx first, e.g. with Pandoc.
+      - title: APA 7 style and citations
+        status: required
+        body: Incomplete or error-filled reference lists, or citations missing from the text, will be returned to you.
+      - title: American English
+        status: required
+      - title: Figures and tables in the manuscript
+        status: required
+        body: >-
+          Everything except raw data goes in the manuscript file. Upload separately only material that
+          doesn’t fit the text flow (e.g. grant rejection letters).
+      - title: Conflicts of interest statement
+        status: required
+        body: >-
+          State any financial or non-financial potential conflicts of interest related to the research
+          or the submission process. If there are none, say so explicitly.
+      - title: Visualise rather than tabulate
+        status: recommended
+        body: Put plain tables in your open dataset.
+      - title: Word limit
+        status: not-needed
+        body: "Digital ink is free. Do be succinct: overly long articles may be returned before review."
+      - title: Anonymisation
+        status: not-needed
+        body: "We use fully open peer review: authors and reviewers know each other’s names."
+
+  - type: cards
+    id: open
+    eyebrow: Step 3 · Empirical & meta-research articles
+    title: Share your data and code
+    short: Open data & code
+    columns: 2
+    intro: >-
+      Open science is important, and JOTE wants to help speed up its adoption. If you collected,
+      processed or generated data, sharing it is **required**. Choose one option for each.
+    items:
+      - title: Data
+        look: headed
+        body: |-
+          **Option A · Publish it yourself**<br>
+          On Zenodo, GitHub, GitLab, ResearchEquals, 4TU.ResearchData, DANS or similar, under an open
+          licence. Link to it in your manuscript.
+
+          **Option B · Send it to us**<br>
+          Include it with your submission. We publish it on Zenodo under CC-BY 4.0, or another open
+          licence you choose.
+      - title: Code & scripts
+        look: headed
+        body: |-
+          **Option A · Publish it yourself**<br>
+          Under an open-source licence (not Creative Commons). We recommend MIT, or GPLv3+ if you want
+          others to share theirs too. Link to it in your manuscript.
+
+          **Option B · Send it to us**<br>
+          Include it with your submission. We publish it on our GitHub under MIT, or another open-source
+          licence you choose.
+      - title: Accepted data licences
+        look: soft
+        body: |-
+          Following the Open Definition: anyone can freely access, use, modify and share, for any purpose.
+
+          - CC-BY 4.0 · CC-BY-SA 4.0 · CC0
+          - ODbL · ODC Attribution · PDDL
+          - Any “do whatever you want” licence
+      - title: Not accepted
+        look: dashed
+        body: |-
+          - NoDerivatives (-ND) or NonCommercial (-NC) licences
+          - “All rights reserved”
+          - **No licence at all.** In the Netherlands, no licence means fully closed. A file called
+            LICENSE saying “do whatever you want” is enough.
+      - title: Can’t share some or all of your data?
+        look: rule
+        body: >-
+          Personal data, company-owned, lost data… Explain why in your submission. Without data or an
+          explanation, we cannot accept the article.
+      - title: Don’t forget
+        look: rule
+        body: Put the link or DOI to your data and code in both your cover letter and your manuscript.
+
+  - type: cards
+    id: authorship
+    eyebrow: Step 4 · All article types
+    title: Confirm authorship
+    short: Authorship
+    items:
+      - title: Final author list at submission
+        status: required
+        body: >-
+          All authors must have approved being named. The corresponding author keeps co-authors
+          informed. Later changes need a clear justification; ghost or gift authorship is reported as
+          misconduct.
+      - title: CRediT roles statement
+        status: required
+        badge: Required if 2+ authors
+        body: After the title, before the abstract.
+        tags:
+          - "[Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/)"
+          - "[Data curation](https://credit.niso.org/contributor-roles/data-curation/)"
+          - "[Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/)"
+          - "[Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/)"
+          - "[Investigation](https://credit.niso.org/contributor-roles/investigation/)"
+          - "[Methodology](https://credit.niso.org/contributor-roles/methodology/)"
+          - "[Project administration](https://credit.niso.org/contributor-roles/project-administration/)"
+          - "[Resources](https://credit.niso.org/contributor-roles/resources/)"
+          - "[Software](https://credit.niso.org/contributor-roles/software/)"
+          - "[Supervision](https://credit.niso.org/contributor-roles/supervision/)"
+          - "[Validation](https://credit.niso.org/contributor-roles/validation/)"
+          - "[Visualization](https://credit.niso.org/contributor-roles/visualization/)"
+          - "[Writing – original draft](https://credit.niso.org/contributor-roles/writing-original-draft/)"
+          - "[Writing – review & editing](https://credit.niso.org/contributor-roles/writing-review-editing/)"
+      - title: Who counts as an author?
+        body: >-
+          We follow the ICMJE criteria. Contributors who meet only some go in the acknowledgements
+          (with their permission), along with funding, supervision, administrative support and
+          proofreading.
+        more:
+          label: Show ICMJE criteria
+          body: |-
+            - Substantial contribution to the conception or design, or to acquiring, analysing or interpreting data
+            - Drafted the work or revised it critically
+            - Approved the final version
+            - Agrees to be accountable for all aspects of the work
+            - Agrees to be named, and approves the full author list
+
+  - type: steps
+    id: pipeline
+    eyebrow: Step 5
+    title: What happens after you submit
+    short: After you submit
+    routes:
+      - label: Standard & Streamlined Review
+        steps:
+          - { title: Editor assigned, text: The editor-in-chief picks a handling editor for your subdiscipline. }
+          - { title: Reviewers found, text: Usually 2–3. }
+          - { title: Open peer review, text: The editor combines the comments and sends them to you. }
+          - { title: You revise, text: Steps 3–4 repeat as needed. }
+          - { title: Production, text: We produce the final version. }
+          - { title: Your proof check, text: You have one week. }
+          - { title: Published, text: On journal.trialanderror.org, highlight: true }
+      - label: Perspective & Reflection
+        steps:
+          - { title: Editor assigned, text: The editor-in-chief picks a handling editor. }
+          - { title: Editorial review, text: The editor reads your piece and sends feedback. No external reviewers. }
+          - { title: You revise, text: Steps 2–3 repeat as needed. }
+          - { title: Production, text: We produce the final version. }
+          - { title: Your proof check, text: You have one week. }
+          - { title: Published, text: On journal.trialanderror.org, highlight: true }
+      - label: Registered Report
+        steps:
+          - { title: Desk assessment, text: The editor-in-chief checks your Stage 1 protocol against the review criteria. }
+          - { title: Stage 1 review, text: "3–4 reviewers: 1–2 on method, 1–2 on content." }
+          - { title: You revise the plan, text: As many rounds as needed. }
+          - { title: In-principle acceptance, text: You can start your study., highlight: true }
+          - { title: Stage 2 review, text: Ideally the same reviewers check adherence to the plan. }
+          - { title: Production & proofs, text: Copyediting, typesetting, your approval. Data made open. }
+          - { title: Published, text: Whatever your results. }
+
+  - type: text
+    title: Ready to submit?
+    background: journal
+    body: >-
+      Questions first? Email [info@trialanderror.org](mailto:info@trialanderror.org) or contact our
+      [Editorial Team](/journal/editorial-board).
+    buttons:
+      - { label: Submit through our portal →, url: "https://submit.trialanderror.org/jote", style: plain }

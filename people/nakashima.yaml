@@ -1,0 +1,10 @@
+firstName: Karina
+lastName: Nakashima
+team: true
+position: Editor
+email: nakashima@trialanderror.org
+summary: Karina Nakashima has a PhD in Chemistry from Radboud University and is a Veni Fellow at Leiden's Institute of Physics. After working as an academic researcher in Brazil, the Netherlands, France and the UK and witnessing the reproducibility crisis in Chemistry, she is eager to spread JOTE's mission to the physical sciences.
+image: /uploads/people/nakashima.webp
+orcid: https://orcid.org/0000-0002-7402-8618
+journal:
+  role: editor

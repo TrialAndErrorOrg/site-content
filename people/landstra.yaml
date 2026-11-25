@@ -4,5 +4,9 @@ team: true
 position: Life Science Editor
 pronouns: they/them
 email: landstra@trialanderror.org
-summary: .
+summary: Elvire is finalizing a PhD in epidemiology in Bonn and has started as a postdoc at Tilburg University. Intimately familiar with having to abandon projects because of unexpected results or faulty experiments, Elvire is eager to support the Journal of Trial and Error's mission of learning from each other's (scientific) failures, as editor of the Life Sciences section.
 image: /uploads/people/landstra.webp
+orcid: https://orcid.org/0009-0005-1583-7406
+journal:
+  role: section-editor
+  section: Life Sciences

@@ -1,6 +1,6 @@
 # Menus. A link with `children` becomes a dropdown in the header
 # and a column in the footer. `color` sets a header tab's colour:
-# accent (orange, the default), accent-soft (light orange) or journal (blue).
+# accent (orange, the default), accent-soft (light orange), journal (blue) or ink (black).
 
 header:
   - title: Journal
@@ -8,6 +8,9 @@ header:
     color: journal
   - title: Blog
     url: /blog
+    color: ink
+  - title: Events
+    url: /events
   - title: Donate
     url: /donate
     color: accent-soft
@@ -30,7 +33,8 @@ header:
         description: The Grant Reuse and Abandoned Ideas Library, a repository for rejected grant applications and more.
 
 # The journal's own menu, in the blue bar on every /journal page.
-# The pages it links to still live on PubPub for now.
+# Aims & Scope, Open Access, Retractions and the FAQ are the PubPub pages,
+# shown on this site from the Underlay export until they move to pages/journal/.
 journal:
   - title: Articles
     url: /journal/articles
@@ -39,19 +43,19 @@ journal:
   - title: Publish with us
     children:
       - title: For Authors
-        url: https://journal.trialanderror.org/for-authors
+        url: /journal/for-authors
       - title: Aims & Scope
-        url: https://journal.trialanderror.org/aims-and-scope
+        url: /journal/aims-and-scope
       - title: Open Access Policy
-        url: https://journal.trialanderror.org/open-access
+        url: /journal/open-access
       - title: Retractions and Corrections
-        url: https://journal.trialanderror.org/retractions-and-corrections
+        url: /journal/retractions-and-corrections
   - title: About
     children:
-      - title: Editorial Board
-        url: https://journal.trialanderror.org/editorial-board
+      - title: Editorial Team
+        url: /journal/editorial-board
       - title: FAQ
-        url: https://journal.trialanderror.org/faq
+        url: /journal/faq
   - title: Other journals
     children:
       - title: Journal for Reproducibility in Neuroscience (archive)
@@ -67,6 +71,8 @@ footer:
         url: /about
       - title: Meet the Team
         url: /about#team
+      - title: Events
+        url: /events
       - title: Manifesto
         url: https://doi.org/10.36850/ed1
       - title: Contact

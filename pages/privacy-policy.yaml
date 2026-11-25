@@ -1,0 +1,42 @@
+title: Privacy Policy
+description: How the Center of Trial and Error handles your personal data.
+showTitle: true
+sections:
+  - type: text
+    body: |-
+      At the Center of Trial and Error, we respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and process your personal information.
+
+      ## Collection of personal information
+
+      We do not collect *any* personal data from you unless you choose to provide it to us:
+
+      - **Newsletter**: when you subscribe, Substack stores your email address for us and sends the newsletter. [Substack's privacy policy](https://substack.com/privacy) applies to what it stores.
+      - **Donations**: Stripe handles donations made through this site and stores the payment details. We see your name, email address and the amount. [Stripe's privacy policy](https://stripe.com/privacy) applies.
+      - **Submissions**: when you submit to one of our journals, our submission system stores what you give it, to handle your submission.
+
+      ## Visits to this site
+
+      We count page views without cookies and without storing anything that identifies you, to see which pages are read. On the donation pages, and only if you agree in the notice there, Google Ads sets a cookie to tell us whether a visit came from one of our ads.
+
+      ## Use of personal information
+
+      We only use your personal information for the purpose you gave it to us for, like sending you the newsletter you subscribed to. We never sell or share your personal information with third parties for marketing purposes.
+
+      ## Storage of personal information
+
+      We only store your personal information for as long as it is needed for that purpose. For the newsletter, that is until you unsubscribe or until we stop offering the newsletter.
+
+      ## Security of personal information
+
+      We take the security of your personal information seriously and have put in place appropriate measures to prevent unauthorized access, disclosure, or misuse. We regularly review these measures to make sure they are effective and up to date.
+
+      ## Your rights
+
+      You have the right to access, rectify, and erase your personal information at any time. You can also object to the processing of your personal information and ask us to restrict its use. To exercise any of these rights, email us at [info@trialanderror.org](mailto:info@trialanderror.org).
+
+      ## Changes to this policy
+
+      We may update this privacy policy from time to time to reflect changes in our data practices or legal requirements. Any updates will be posted on this page.
+
+      If you have any questions or concerns about our privacy practices, email us at [info@trialanderror.org](mailto:info@trialanderror.org).
+    background: paper

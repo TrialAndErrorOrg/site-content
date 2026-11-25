@@ -11,6 +11,15 @@ blog:
   description: A blog by the Center of Trial and Error exploring failure in academia, open science and what it takes to be an Open Access publisher.
   postsPerPage: 12
   pitchEmail: hobma@trialanderror.org
+  substack: https://centeroftrialanderror.substack.com
+  # "Most read" when Umami can't be asked (no UMAMI_USERNAME/UMAMI_PASSWORD at build).
+  # PLACEHOLDER picks, not real view counts: replace or empty once Umami is connected.
+  popular:
+    - jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascientists
+    - the-four-horsemen-of-the-crisis-in-psychological-science
+    - behind-the-scenes-how-to-create-a-diamond-open-access-journal
+    - not-all-that-shines-is-diamond
+    - wissenschaftschmerz
 
 journal:
   title: Journal of Trial and Error
@@ -20,13 +29,15 @@ journal:
 newsletter:
   title: Subscribe to our newsletter!
   text: Keep up to date with the Blog, the Center and the Journal of Trial & Error.
-  # Mailchimp form action, copied from the embedded form Mailchimp gives you
-  action: https://trialanderror.us21.list-manage.com/subscribe/post?u=3b2e720baa7621e1bde91b1a2&id=13b78e80c7&f_id=0099c0e1f0
+  # Where the sign-up form sends the address: Substack (decided 2026-10-14), or a Mailchimp
+  # form action. The old Mailchimp list was
+  # https://trialanderror.us21.list-manage.com/subscribe/post?u=3b2e720baa7621e1bde91b1a2&id=13b78e80c7&f_id=0099c0e1f0
+  action: https://centeroftrialanderror.substack.com/api/v1/free?nojs=true
 
-analytics:
-  # Umami, self-hosted
-  script: https://analytics.trialanderror.org/script.js
-  websiteId: 60d1573a-ec6c-43e7-88cb-2fdaae0701b1
+# Page views are counted with GoatCounter (decided 2026-11-25, replacing Umami at
+# analytics.trialanderror.org). Uncomment once the GoatCounter instance runs:
+# analytics:
+#   goatcounter: https://stats.trialanderror.org
 
 # Google Ads conversion tracking, only on these pages and only after consent
 adTracking:

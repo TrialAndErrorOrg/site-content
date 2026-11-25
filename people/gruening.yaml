@@ -19,3 +19,6 @@ links:
   - icon: twitter
     url: https://twitter.com/GruningJ
 orcid: https://orcid.org/0000-0002-9274-5477
+journal:
+  role: section-editor
+  section: Psychology
