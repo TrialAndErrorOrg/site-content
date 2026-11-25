@@ -29,8 +29,10 @@ journal:
 newsletter:
   title: Subscribe to our newsletter!
   text: Keep up to date with the Blog, the Center and the Journal of Trial & Error.
-  # Mailchimp form action, copied from the embedded form Mailchimp gives you
-  action: https://trialanderror.us21.list-manage.com/subscribe/post?u=3b2e720baa7621e1bde91b1a2&id=13b78e80c7&f_id=0099c0e1f0
+  # Where the sign-up form sends the address: Substack (decided 2026-10-14), or a Mailchimp
+  # form action. The old Mailchimp list was
+  # https://trialanderror.us21.list-manage.com/subscribe/post?u=3b2e720baa7621e1bde91b1a2&id=13b78e80c7&f_id=0099c0e1f0
+  action: https://centeroftrialanderror.substack.com/api/v1/free?nojs=true
 
 analytics:
   # Umami, self-hosted
