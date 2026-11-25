@@ -25,6 +25,13 @@ sections:
     count: 6
     style: featured
 
+  # Point readers to one issue. Change `issue` to the slug of the issue to highlight
+  # (/journal/issue/<slug>), or leave it out for the newest numbered issue
+  - type: featured-issue
+    title: Special issue
+    issue: special-issue-health
+    count: 5
+
   - type: article-types
     title: Browse by type
     intro: >-
