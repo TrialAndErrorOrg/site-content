@@ -52,7 +52,7 @@ journal:
         url: /journal/retractions-and-corrections
   - title: About
     children:
-      - title: Editorial Board
+      - title: Editorial Team
         url: /journal/editorial-board
       - title: FAQ
         url: /journal/faq
