@@ -1,6 +1,6 @@
 # Menus. A link with `children` becomes a dropdown in the header
 # and a column in the footer. `color` sets a header tab's colour:
-# accent (orange, the default), accent-soft (light orange) or journal (blue).
+# accent (orange, the default), accent-soft (light orange), journal (blue) or ink (black).
 
 header:
   - title: Journal
@@ -8,6 +8,7 @@ header:
     color: journal
   - title: Blog
     url: /blog
+    color: ink
   - title: Events
     url: /events
   - title: Donate
